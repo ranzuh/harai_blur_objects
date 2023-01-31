@@ -4,6 +4,8 @@ Blur objects such as mobile phones in a video stream. By default we blur mobile 
 
 ## Installation
 
+You need to have DepthAI and few other dependencies installed on your system.
+
 Execute the script below to install DepthAI on Linux systems:
 ```
 sudo wget -qO- https://docs.luxonis.com/install_depthai.sh | bash
