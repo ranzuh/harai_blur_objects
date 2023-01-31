@@ -20,8 +20,15 @@ pip3 install depthai blobconverter opencv-python
 
 ## Run
 
-Now you can run the script
+Clone the github repo
+
 ```
+git clone https://github.com/ranzuh/harai_blur_objects
+```
+
+Now you can go to the folder and run the script
+```
+cd harai_blur_objects
 python3 blur_objects.py
 ```
 
